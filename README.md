@@ -7,4 +7,6 @@ Esses são alguns prints da página. | These are some prints of the page.
 ![1](https://github.com/0aquarianjo/LarissaBarbosaPSI/assets/130726878/7a63c081-6358-4aab-99ac-f3625656cef7)
 ![2](https://github.com/0aquarianjo/LarissaBarbosaPSI/assets/130726878/1aac641f-c1a2-4c2d-b5ac-64c439e1cc79)
 ![3](https://github.com/0aquarianjo/LarissaBarbosaPSI/assets/130726878/59a2d50a-bf62-4ffb-ac03-553039ce298d)
+![4](https://github.com/0aquarianjo/LarissaBarbosaPSI/assets/130726878/b7e9de0e-da74-4179-b70c-1ce5fb2ec9c9)
+![5](https://github.com/0aquarianjo/LarissaBarbosaPSI/assets/130726878/b40b2451-3d67-417d-8470-f09c7f392a2c)
 </div>
